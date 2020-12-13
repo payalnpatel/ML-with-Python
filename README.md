@@ -1,2 +1,8 @@
 # Machine Learning w/Python
-Machine Learning w/Python - includes scripts, examples,/projects and helpful resources
+This repo includes scripts, examples/projects and helpful resources
+
+
+### Projects / Examples 
+- Iris Analysis 
+
+### Helpful Resources
